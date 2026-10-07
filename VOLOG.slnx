@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VOLOG/VOLOG.vcxproj" Id="b251957c-e329-4548-9ff0-b5ec1a704790" />
+</Solution>
